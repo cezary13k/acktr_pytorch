@@ -1,4 +1,4 @@
-## Implementation of [ACKTR](https://arxiv.org/abs/1708.05144) algorithm.
+#c3zaru13k# Implementation of [ACKTR](https://arxiv.org/abs/1708.05144) algorithm.
 
 The code is organized as follows:
 * **models.py**: implementations of A2C and A3C
